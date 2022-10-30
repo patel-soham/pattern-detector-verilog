@@ -9,3 +9,4 @@ A basic '10110' pattern detector using Verilog.
 2. [Design File 2](pattern1.v)
 3. [Test Bench](tb_pattern.v)
 4. [Run.do](run.do)
+5. Bachelors lab work pattern detector [design file](labwork.v)
