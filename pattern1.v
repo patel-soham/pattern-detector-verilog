@@ -1,3 +1,4 @@
+// 10110 Pattern Detector Verilog Code
 module pattern(clk, rst, valid, in, out);
 parameter RST=3'b000,
 		  S1=3'b001,
